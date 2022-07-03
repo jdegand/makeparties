@@ -39,13 +39,13 @@ To run, git clone and add a MONGO connection string.
 - Authentication
 - File Structure i.e. Controller
 
-### Resources
+### Useful Resources
 
+- [Picsum](https://picsum.photos/)
 - [Stack Overflow](https://stackoverflow.com/questions/69959820/typeerror-exphbs-is-not-a-function) - setting up express-handlebars
 - [NPM](https://www.npmjs.com/package/express-handlebars) - express-handlebars
 - [Github](https://github.com/handlebars-lang/handlebars.js/issues/1648#issuecomment-582241258) - handlebars prototype access
 - [Stack Overflow](https://stackoverflow.com/questions/4299991/how-to-sort-in-mongoose) - Mongoose Sort
-- [Picsum](https://picsum.photos/)
 - [Stack Overflow](https://stackoverflow.com/questions/59690923/handlebars-access-has-been-denied-to-resolve-the-property-from-because-it-is) - lean() *
 - [Mastering JS](https://masteringjs.io/tutorials/mongoose/update) - Mongoose Update
 - [Stack Overflow](https://stackoverflow.com/questions/25260818/rest-with-express-js-nested-router) - Nested Routes Express
